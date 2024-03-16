@@ -13,7 +13,7 @@ public class MainClass {
         System.out.println("Enter second number : ");
         secondNumber = readme.nextDouble();
         
-        sum = firstNumber + secondNumber;
+        sum = firstNumber - secondNumber;
         
         System.out.println("The sum is = " + sum);
     }
